@@ -1,2 +1,31 @@
+.main{
+	display:flex;
+	flex-wrap:nowrap;
+	font-size:40px;
 
+	align-items:center;
+}
+.main1{
+	display:flex;
+	flex-wrap:wrap;
+	font-size:40px;
+
+	align-items:center;
+}
+
+.box1{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+.box2{
+	height:100px;
+	width:100px;
+	background-color:red;
+}
+.box3{
+	height:100px;
+	width:100px;
+	background-color:blue;
+}
 /* Your CSS Code here. */
